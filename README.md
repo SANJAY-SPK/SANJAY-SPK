@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Sanjay S<br>I'm currently in my third year pursuing a degree in Electronics and Communication Engineering (ECE) at Karpagam Institute of Technology. My passion lies in full-stack mobile application development, where I love bringing ideas to life through code. Besides coding, I have a keen interest in the dynamic world of digital marketing and the ever-evolving field of electronics.<br><br>
+Hi there! 👋 I'm Sanjay S<br>I'm currently in my final year pursuing a degree in Electronics and Communication Engineering (ECE) at Karpagam Institute of Technology. My passion lies in full-stack mobile application development, where I love bringing ideas to life through code. Besides coding, I have a keen interest in the dynamic world of digital marketing and the ever-evolving field of electronics.<br><br>
 
 # 💼 Current Focus
 <br>
